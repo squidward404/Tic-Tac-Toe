@@ -1,4 +1,4 @@
-# <p align="center">Builderz &mdash; Tic‑Tac‑Toe (Project 1.0)</p>
+# Builderz > Tic-Tac-Toe (Project 1.0)
 
 <p align="center">
   <img src="assets/pic.png" alt="Builderz Tic-Tac-Toe" style="display:block;margin:0 auto;max-width:60%;height:auto;" />
