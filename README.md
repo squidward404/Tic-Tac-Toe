@@ -1,6 +1,8 @@
 # Builderz > Tic-Tac-Toe (Project 1.0)
 
-![Builderz Tic-Tac-Toe](assets/pic.png)
+<p align="center">
+  <img src="assets/pic.png" alt="Builderz Tic-Tac-Toe" style="display:block;margin:0 auto;max-width:60%;height:auto;" />
+</p>
 
 Simple Tic‑Tac‑Toe game made with C++ - Builderz Project 1.0.
 
@@ -31,5 +33,7 @@ g++ game.cpp -O2 -std=c++17 -o game
 
 Want to add AI, a GUI, or networked play,and more? Fork this repo and  submit a PR.
 
-Koin Builderz — then here is the Builderz Telegram channel: https://t.me/+20bm-nYA7Fc5ODA0
+**Join Builderz?**
+ 
+Telegram : https://t.me/+20bm-nYA7Fc5ODA0
 
