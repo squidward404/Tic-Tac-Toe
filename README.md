@@ -7,23 +7,31 @@
 Simple Tic‑Tac‑Toe game made with C++ - Builderz Project 1.0.
 
 **Features:**
-- Single-file C++ game (`game.cpp`).
+- CMake-based C++ project.
 - Terminal UI and two-player local mode.
-- Minimal dependencies : just a C++ compiler.
+- Uses `raylib` and the local `score` library.
 
 **Build**
 
-Compile with a modern g++:
+First time only, configure the project:
 
 ```bash
-g++ game.cpp -O2 -std=c++17 -o game
+cmake -S . -B build
+```
+
+After that, the build command is:
+
+```bash
+cmake --build build
 ```
 
 **Run**
 
 ```bash
-./game
+./build/TicTacToe
 ```
+
+If you are building for the first time, CMake will fetch `raylib` during the configure step.
 
 **How to play**
 
